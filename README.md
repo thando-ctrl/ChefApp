@@ -40,7 +40,9 @@ Using the same theme the color palet was used to redefine the app and implement 
 
 the app is now faster and more reliable
 
-#Before
+# Before
+
+
 ![b6](https://github.com/user-attachments/assets/0b947c73-95dd-4174-bd86-d375dbc73e60)
 ![b5](https://github.com/user-attachments/assets/9dbae82d-eb22-4da7-b6e1-9476d4582a6c)
 ![b4](https://github.com/user-attachments/assets/1fe0daf9-72a4-47be-901a-0b66c551bb1c)
@@ -48,7 +50,9 @@ the app is now faster and more reliable
 ![b2](https://github.com/user-attachments/assets/71f4dc4f-d482-4167-99c0-c8abd9e00a9a)
 ![b1](https://github.com/user-attachments/assets/755b6cee-d2c9-4703-91b2-05e6b1149afb)
 
-#After
+# After
+
+
 ![a6](https://github.com/user-attachments/assets/37918438-a3d4-464a-b412-95fd7c87dfc5)
 ![a5](https://github.com/user-attachments/assets/b2068551-15ff-4adb-9731-a627dc7b57dc)
 ![a4](https://github.com/user-attachments/assets/fd6755d0-509e-41f4-abe6-f4c28d0e5d6b)
